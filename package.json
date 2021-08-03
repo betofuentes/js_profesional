@@ -12,8 +12,8 @@
     "url": "git+https://github.com/betofuentes/js_profesional.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Alberto Fuentes <alberto.fuentesco@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/betofuentes/js_profesional/issues"
   },
