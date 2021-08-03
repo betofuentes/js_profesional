@@ -1,0 +1,24 @@
+{
+  "name": "js_profesional",
+  "version": "1.0.0",
+  "description": "Platzivideo",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betofuentes/js_profesional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betofuentes/js_profesional/issues"
+  },
+  "homepage": "https://github.com/betofuentes/js_profesional#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
